@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Kinson99
-- 👀 I’m interested in JAVA,JavaScript, CPP, and whole FrontEnd
+- 👀 I’m interested in JAVA,JavaScript, CPP,
+- Good at HTML/CSS
+- I'm a big fan of Star Wars :D
 -
 
 <!---
