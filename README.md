@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Kinson99
-- 👀 I’m interested in JAVA,JavaScript, CPP,
-- Good at HTML/CSS
-- I'm a big fan of Star Wars :D
+Hi! I'm Mateusz, a 23 year old computer programming student.
+
+Actively learning and practicing 🐝 ➡️ Java, PHP, JavaScript, CSS, SQL since 2020
+
+interested in 🔍 ➡️ Programming languages, Databases.
+
+I speak native Polish & good English.
+
 
 
 <!---
